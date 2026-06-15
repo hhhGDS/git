@@ -6,7 +6,6 @@ LLM服务 - 大模型接口
 
 import requests
 from typing import Dict, Any, Optional
-from langchain.llms import OpenAI
 
 
 class LLMService:
